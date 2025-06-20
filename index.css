@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+    
+}
+body{
+    background-image: url("/landing\ pahe.webp");
+    background-size: cover;
+}
+#navbar{
+    height: 60px;
+    /* background-color: #0f1111; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+button{
+    background-color: black;
+    padding: 5px;
+    color: aliceblue;
+    border: 5px solid black;
+   border-radius: 10px;
+    /* font-size: 45px; */
+}
+#logo{
+    color: black;
+    font-size: 45px;
+     background-color: rgb(0, 132, 255);
+      padding: 10px;
+       border: 5px solid black;
+   border-radius: 10px;
+   /* font-size: 20px;
+   border: 5px solid black;
+   border-radius: 10px; */
+}
+a{
+    margin-right: 190px;
+    text-decoration: none;
+    
+}
+.content{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+h1{
+    font-size: 70px;
+}
+p{
+    font-size: 30px;
+}
+#button{
+   padding: 20px;
+   margin-top: 20px;
+   background-color: rgb(0, 132, 255);
+   font-size: 20px;
+   border: 5px solid black;
+   border-radius: 10px;
+}
